@@ -23,7 +23,7 @@ list_of_files = [
     "schema.yaml",
     "main.py",
     "Dockerfile",
-    # "requirements.txt",
+#   "requirements.txt",
     "setup.py",
     "research/research.ipynb",
     "templates/index.html",
